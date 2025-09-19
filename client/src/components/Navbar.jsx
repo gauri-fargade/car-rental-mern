@@ -4,7 +4,8 @@ import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { useAppContext } from '../context/AppContext'
 import toast from 'react-hot-toast'
 import { motion } from 'motion/react'
-import logo from '../Assets/logos.png' // your new logo
+import logo from "../assets/logos.png";
+
 
 const Navbar = () => {
     const { setShowLogin, user, logout, isOwner, axios, setIsOwner } = useAppContext()

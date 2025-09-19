@@ -1,11 +1,10 @@
-# Car Rental MERN Projec
+# Car Rental MERN Project
 
 A full-stack **CarRental** web app built with **MERN** (MongoDB, Express, React, Node). Users can browse and book cars; owners can manage cars and bookings.
 
 ## Features
 - Browse and book rental cars
 - Owner dashboard to add/manage cars
-- JWT Authentication
 - Responsive UI with image uploads
 
 ## Tech Stack
